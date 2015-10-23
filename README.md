@@ -13,10 +13,6 @@
   Create note with timestamp
   
 
-#To be implemented
-
-Google Drive support
-
 UI Design
 
 Saving notes
